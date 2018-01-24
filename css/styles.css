@@ -1,0 +1,14 @@
+.caja1{
+
+	height: 200px;
+	width: 200px;
+	top: 40px;
+	overflow:visible;
+	padding: 20px;
+	background-color: red;
+	
+}
+
+.body1{
+	background-color: dark-turquoise;
+}
